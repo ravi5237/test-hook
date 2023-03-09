@@ -1,2 +1,2 @@
 CODE: CAD0
-APP_NAME: cado_dev
+APP_NAME: cado_dev_test
